@@ -1,4 +1,4 @@
-### Spark Data Analyses
+### Spark Data Analysis
 ---  
 1) Расчет усредненной длины сессии в рамках суток  
   [task_1](task_1.ipynb "task_1.ipynb")  
